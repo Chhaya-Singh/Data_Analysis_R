@@ -1,0 +1,1 @@
+Hi👋this repository is for learning basic syntax of R applying some ML Models.
